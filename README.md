@@ -28,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0519-widest-pair-of-indices-with-equal-range-sum](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/0519-widest-pair-of-indices-with-equal-range-sum) |
+## Math
+|  |
+| ------- |
+| [2141-smallest-greater-multiple-made-of-two-digits](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2141-smallest-greater-multiple-made-of-two-digits) |
+## Enumeration
+|  |
+| ------- |
+| [2141-smallest-greater-multiple-made-of-two-digits](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2141-smallest-greater-multiple-made-of-two-digits) |
 <!---LeetCode Topics End-->
