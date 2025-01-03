@@ -62,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1992-sort-linked-list-already-sorted-using-absolute-values](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1992-sort-linked-list-already-sorted-using-absolute-values) |
+## Graph
+|  |
+| ------- |
+| [2218-paths-in-maze-that-lead-to-same-room](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2218-paths-in-maze-that-lead-to-same-room) |
 <!---LeetCode Topics End-->
