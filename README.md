@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2071-longest-common-subsequence-between-sorted-arrays](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2071-longest-common-subsequence-between-sorted-arrays) |
+| [2209-number-of-equal-count-substrings](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2209-number-of-equal-count-substrings) |
 ## Binary Search
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0519-widest-pair-of-indices-with-equal-range-sum](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/0519-widest-pair-of-indices-with-equal-range-sum) |
+| [2209-number-of-equal-count-substrings](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2209-number-of-equal-count-substrings) |
 ## Math
 |  |
 | ------- |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## String
+|  |
+| ------- |
+| [2209-number-of-equal-count-substrings](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2209-number-of-equal-count-substrings) |
 <!---LeetCode Topics End-->
