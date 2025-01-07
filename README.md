@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0510-count-subarrays-with-more-ones-than-zeros](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/0510-count-subarrays-with-more-ones-than-zeros) |
 | [0519-widest-pair-of-indices-with-equal-range-sum](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/0519-widest-pair-of-indices-with-equal-range-sum) |
 | [1979-maximum-number-of-people-that-can-be-caught-in-tag](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1979-maximum-number-of-people-that-can-be-caught-in-tag) |
 | [2069-kth-smallest-subarray-sum](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2069-kth-smallest-subarray-sum) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0510-count-subarrays-with-more-ones-than-zeros](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/0510-count-subarrays-with-more-ones-than-zeros) |
 | [2069-kth-smallest-subarray-sum](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2069-kth-smallest-subarray-sum) |
 | [2111-binary-searchable-numbers-in-an-unsorted-array](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2111-binary-searchable-numbers-in-an-unsorted-array) |
 ## Sliding Window
@@ -82,4 +84,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2209-number-of-equal-count-substrings](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2209-number-of-equal-count-substrings) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0510-count-subarrays-with-more-ones-than-zeros](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/0510-count-subarrays-with-more-ones-than-zeros) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0510-count-subarrays-with-more-ones-than-zeros](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/0510-count-subarrays-with-more-ones-than-zeros) |
+## Segment Tree
+|  |
+| ------- |
+| [0510-count-subarrays-with-more-ones-than-zeros](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/0510-count-subarrays-with-more-ones-than-zeros) |
+## Merge Sort
+|  |
+| ------- |
+| [0510-count-subarrays-with-more-ones-than-zeros](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/0510-count-subarrays-with-more-ones-than-zeros) |
+## Ordered Set
+|  |
+| ------- |
+| [0510-count-subarrays-with-more-ones-than-zeros](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/0510-count-subarrays-with-more-ones-than-zeros) |
 <!---LeetCode Topics End-->
