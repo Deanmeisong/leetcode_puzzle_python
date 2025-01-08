@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-maximum-number-of-people-that-can-be-caught-in-tag](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1979-maximum-number-of-people-that-can-be-caught-in-tag) |
 | [2069-kth-smallest-subarray-sum](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2069-kth-smallest-subarray-sum) |
 | [2071-longest-common-subsequence-between-sorted-arrays](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2071-longest-common-subsequence-between-sorted-arrays) |
+| [2082-minimum-cost-to-separate-sentence-into-rows](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2082-minimum-cost-to-separate-sentence-into-rows) |
 | [2111-binary-searchable-numbers-in-an-unsorted-array](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2111-binary-searchable-numbers-in-an-unsorted-array) |
 | [2142-average-height-of-buildings-in-each-segment](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2142-average-height-of-buildings-in-each-segment) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -104,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0510-count-subarrays-with-more-ones-than-zeros](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/0510-count-subarrays-with-more-ones-than-zeros) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2082-minimum-cost-to-separate-sentence-into-rows](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2082-minimum-cost-to-separate-sentence-into-rows) |
 <!---LeetCode Topics End-->
