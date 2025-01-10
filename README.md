@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2111-binary-searchable-numbers-in-an-unsorted-array](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2111-binary-searchable-numbers-in-an-unsorted-array) |
 | [2142-average-height-of-buildings-in-each-segment](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2142-average-height-of-buildings-in-each-segment) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2203-number-of-spaces-cleaning-robot-cleaned](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2203-number-of-spaces-cleaning-robot-cleaned) |
 ## Hash Table
 |  |
 | ------- |
@@ -112,4 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2082-minimum-cost-to-separate-sentence-into-rows](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2082-minimum-cost-to-separate-sentence-into-rows) |
+## Matrix
+|  |
+| ------- |
+| [2203-number-of-spaces-cleaning-robot-cleaned](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2203-number-of-spaces-cleaning-robot-cleaned) |
+## Simulation
+|  |
+| ------- |
+| [2203-number-of-spaces-cleaning-robot-cleaned](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2203-number-of-spaces-cleaning-robot-cleaned) |
 <!---LeetCode Topics End-->
