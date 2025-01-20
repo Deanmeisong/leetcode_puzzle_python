@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0510-count-subarrays-with-more-ones-than-zeros](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/0510-count-subarrays-with-more-ones-than-zeros) |
 | [0512-maximum-alternating-subarray-sum](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/0512-maximum-alternating-subarray-sum) |
 | [0519-widest-pair-of-indices-with-equal-range-sum](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/0519-widest-pair-of-indices-with-equal-range-sum) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1207-delete-nodes-and-return-forest) |
 | [1979-maximum-number-of-people-that-can-be-caught-in-tag](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1979-maximum-number-of-people-that-can-be-caught-in-tag) |
 | [2062-game-of-nim](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2062-game-of-nim) |
 | [2069-kth-smallest-subarray-sum](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2069-kth-smallest-subarray-sum) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0519-widest-pair-of-indices-with-equal-range-sum](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/0519-widest-pair-of-indices-with-equal-range-sum) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1207-delete-nodes-and-return-forest) |
 | [2071-longest-common-subsequence-between-sorted-arrays](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2071-longest-common-subsequence-between-sorted-arrays) |
 | [2247-number-of-unique-flavors-after-sharing-k-candies](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2247-number-of-unique-flavors-after-sharing-k-candies) |
 ## Counting
@@ -155,13 +157,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [1207-delete-nodes-and-return-forest](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Depth-First Search
 |  |
 | ------- |
+| [1207-delete-nodes-and-return-forest](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Binary Tree
 |  |
 | ------- |
+| [1207-delete-nodes-and-return-forest](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 <!---LeetCode Topics End-->
