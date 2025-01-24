@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [2209-number-of-equal-count-substrings](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2209-number-of-equal-count-substrings) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Divide and Conquer
@@ -181,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1249-snapshot-array](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1249-snapshot-array) |
+## Stack
+|  |
+| ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
