@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0519-widest-pair-of-indices-with-equal-range-sum](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/0519-widest-pair-of-indices-with-equal-range-sum) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1207-delete-nodes-and-return-forest) |
 | [1249-snapshot-array](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1249-snapshot-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1370-count-number-of-nice-subarrays) |
 | [1979-maximum-number-of-people-that-can-be-caught-in-tag](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1979-maximum-number-of-people-that-can-be-caught-in-tag) |
 | [2062-game-of-nim](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2062-game-of-nim) |
 | [2069-kth-smallest-subarray-sum](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2069-kth-smallest-subarray-sum) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0519-widest-pair-of-indices-with-equal-range-sum](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/0519-widest-pair-of-indices-with-equal-range-sum) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1207-delete-nodes-and-return-forest) |
 | [1249-snapshot-array](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1249-snapshot-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1370-count-number-of-nice-subarrays) |
 | [2071-longest-common-subsequence-between-sorted-arrays](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2071-longest-common-subsequence-between-sorted-arrays) |
 | [2247-number-of-unique-flavors-after-sharing-k-candies](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2247-number-of-unique-flavors-after-sharing-k-candies) |
 ## Counting
@@ -45,17 +47,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1370-count-number-of-nice-subarrays](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1370-count-number-of-nice-subarrays) |
 | [2069-kth-smallest-subarray-sum](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2069-kth-smallest-subarray-sum) |
 | [2247-number-of-unique-flavors-after-sharing-k-candies](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2247-number-of-unique-flavors-after-sharing-k-candies) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0519-widest-pair-of-indices-with-equal-range-sum](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/0519-widest-pair-of-indices-with-equal-range-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1370-count-number-of-nice-subarrays) |
 | [2075-brightest-position-on-street](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2075-brightest-position-on-street) |
 | [2209-number-of-equal-count-substrings](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2209-number-of-equal-count-substrings) |
 ## Math
 |  |
 | ------- |
+| [1370-count-number-of-nice-subarrays](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1370-count-number-of-nice-subarrays) |
 | [2062-game-of-nim](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2062-game-of-nim) |
 | [2141-smallest-greater-multiple-made-of-two-digits](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2141-smallest-greater-multiple-made-of-two-digits) |
 | [2268-remove-all-ones-with-row-and-column-flips](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2268-remove-all-ones-with-row-and-column-flips) |
