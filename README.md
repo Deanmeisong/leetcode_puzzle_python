@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1186-building-h2o](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1186-building-h2o) |
 | [1216-print-zero-even-odd](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1216-print-zero-even-odd) |
+| [1316-fizz-buzz-multithreaded](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1316-fizz-buzz-multithreaded) |
 | [1340-the-dining-philosophers](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1340-the-dining-philosophers) |
 ## Design
 |  |
