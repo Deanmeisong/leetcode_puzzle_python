@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [1229-shortest-path-with-alternating-colors](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1229-shortest-path-with-alternating-colors) |
 | [2218-paths-in-maze-that-lead-to-same-room](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2218-paths-in-maze-that-lead-to-same-room) |
 | [2230-minimum-cost-to-reach-city-with-discounts](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2230-minimum-cost-to-reach-city-with-discounts) |
 ## Backtracking
@@ -192,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1229-shortest-path-with-alternating-colors](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1229-shortest-path-with-alternating-colors) |
 <!---LeetCode Topics End-->
