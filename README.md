@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0512-maximum-alternating-subarray-sum](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/0512-maximum-alternating-subarray-sum) |
 | [0519-widest-pair-of-indices-with-equal-range-sum](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/0519-widest-pair-of-indices-with-equal-range-sum) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1207-delete-nodes-and-return-forest) |
+| [1230-maximum-of-absolute-value-expression](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1230-maximum-of-absolute-value-expression) |
 | [1249-snapshot-array](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1249-snapshot-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1370-count-number-of-nice-subarrays) |
 | [1979-maximum-number-of-people-that-can-be-caught-in-tag](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1979-maximum-number-of-people-that-can-be-caught-in-tag) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1230-maximum-of-absolute-value-expression](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1230-maximum-of-absolute-value-expression) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1370-count-number-of-nice-subarrays) |
 | [2062-game-of-nim](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2062-game-of-nim) |
 | [2141-smallest-greater-multiple-made-of-two-digits](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2141-smallest-greater-multiple-made-of-two-digits) |
