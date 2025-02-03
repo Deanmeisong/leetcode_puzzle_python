@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1351-replace-the-substring-for-balanced-string](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1370-count-number-of-nice-subarrays) |
 | [2069-kth-smallest-subarray-sum](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2069-kth-smallest-subarray-sum) |
 | [2247-number-of-unique-flavors-after-sharing-k-candies](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2247-number-of-unique-flavors-after-sharing-k-candies) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1125-design-file-system](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1125-design-file-system) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1351-replace-the-substring-for-balanced-string](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [2209-number-of-equal-count-substrings](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2209-number-of-equal-count-substrings) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Divide and Conquer
