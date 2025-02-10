@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1388-greatest-sum-divisible-by-three](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1979-maximum-number-of-people-that-can-be-caught-in-tag](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1979-maximum-number-of-people-that-can-be-caught-in-tag) |
 | [2062-game-of-nim](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2062-game-of-nim) |
 | [2069-kth-smallest-subarray-sum](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2069-kth-smallest-subarray-sum) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1370-count-number-of-nice-subarrays) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2071-longest-common-subsequence-between-sorted-arrays](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2071-longest-common-subsequence-between-sorted-arrays) |
 | [2247-number-of-unique-flavors-after-sharing-k-candies](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2247-number-of-unique-flavors-after-sharing-k-candies) |
 ## Counting
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1979-maximum-number-of-people-that-can-be-caught-in-tag](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1979-maximum-number-of-people-that-can-be-caught-in-tag) |
 | [2142-average-height-of-buildings-in-each-segment](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2142-average-height-of-buildings-in-each-segment) |
 | [2242-subsequence-of-size-k-with-the-largest-even-sum](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2242-subsequence-of-size-k-with-the-largest-even-sum) |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1388-greatest-sum-divisible-by-three) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1992-sort-linked-list-already-sorted-using-absolute-values](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1992-sort-linked-list-already-sorted-using-absolute-values) |
 | [2142-average-height-of-buildings-in-each-segment](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2142-average-height-of-buildings-in-each-segment) |
 | [2242-subsequence-of-size-k-with-the-largest-even-sum](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2242-subsequence-of-size-k-with-the-largest-even-sum) |
