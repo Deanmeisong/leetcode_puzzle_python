@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0519-widest-pair-of-indices-with-equal-range-sum](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/0519-widest-pair-of-indices-with-equal-range-sum) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1207-delete-nodes-and-return-forest) |
 | [1230-maximum-of-absolute-value-expression](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1230-maximum-of-absolute-value-expression) |
+| [1242-matrix-block-sum](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1242-matrix-block-sum) |
 | [1249-snapshot-array](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1249-snapshot-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0519-widest-pair-of-indices-with-equal-range-sum](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/0519-widest-pair-of-indices-with-equal-range-sum) |
+| [1242-matrix-block-sum](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1242-matrix-block-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1370-count-number-of-nice-subarrays) |
 | [2075-brightest-position-on-street](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2075-brightest-position-on-street) |
 | [2209-number-of-equal-count-substrings](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2209-number-of-equal-count-substrings) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1242-matrix-block-sum](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1242-matrix-block-sum) |
 | [1380-number-of-closed-islands](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1380-number-of-closed-islands) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2203-number-of-spaces-cleaning-robot-cleaned](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2203-number-of-spaces-cleaning-robot-cleaned) |
