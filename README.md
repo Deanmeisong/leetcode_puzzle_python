@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1428-jump-game-iii](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1428-jump-game-iii) |
+| [1464-reduce-array-size-to-the-half](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1464-reduce-array-size-to-the-half) |
 | [1979-maximum-number-of-people-that-can-be-caught-in-tag](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1979-maximum-number-of-people-that-can-be-caught-in-tag) |
 | [2062-game-of-nim](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2062-game-of-nim) |
 | [2069-kth-smallest-subarray-sum](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2069-kth-smallest-subarray-sum) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
+| [1464-reduce-array-size-to-the-half](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1464-reduce-array-size-to-the-half) |
 | [2071-longest-common-subsequence-between-sorted-arrays](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2071-longest-common-subsequence-between-sorted-arrays) |
 | [2247-number-of-unique-flavors-after-sharing-k-candies](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2247-number-of-unique-flavors-after-sharing-k-candies) |
 ## Counting
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1388-greatest-sum-divisible-by-three](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1464-reduce-array-size-to-the-half](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1464-reduce-array-size-to-the-half) |
 | [1979-maximum-number-of-people-that-can-be-caught-in-tag](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1979-maximum-number-of-people-that-can-be-caught-in-tag) |
 | [2142-average-height-of-buildings-in-each-segment](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2142-average-height-of-buildings-in-each-segment) |
 | [2242-subsequence-of-size-k-with-the-largest-even-sum](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2242-subsequence-of-size-k-with-the-largest-even-sum) |
@@ -104,12 +107,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1464-reduce-array-size-to-the-half](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1464-reduce-array-size-to-the-half) |
 | [1992-sort-linked-list-already-sorted-using-absolute-values](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1992-sort-linked-list-already-sorted-using-absolute-values) |
 | [2142-average-height-of-buildings-in-each-segment](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2142-average-height-of-buildings-in-each-segment) |
 | [2242-subsequence-of-size-k-with-the-largest-even-sum](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2242-subsequence-of-size-k-with-the-largest-even-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1464-reduce-array-size-to-the-half](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1464-reduce-array-size-to-the-half) |
 | [2142-average-height-of-buildings-in-each-segment](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2142-average-height-of-buildings-in-each-segment) |
 | [2230-minimum-cost-to-reach-city-with-discounts](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2230-minimum-cost-to-reach-city-with-discounts) |
 ## Linked List
