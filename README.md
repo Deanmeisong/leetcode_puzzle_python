@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1207-delete-nodes-and-return-forest) |
 | [1254-deepest-leaves-sum](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1254-deepest-leaves-sum) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1450-delete-leaves-with-a-given-value) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Depth-First Search
 |  |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1428-jump-game-iii](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1428-jump-game-iii) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1450-delete-leaves-with-a-given-value) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Binary Tree
 |  |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1207-delete-nodes-and-return-forest) |
 | [1254-deepest-leaves-sum](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1254-deepest-leaves-sum) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1450-delete-leaves-with-a-given-value) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Concurrency
 |  |
