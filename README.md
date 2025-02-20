@@ -47,11 +47,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1464-reduce-array-size-to-the-half) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2071-longest-common-subsequence-between-sorted-arrays](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2071-longest-common-subsequence-between-sorted-arrays) |
 | [2247-number-of-unique-flavors-after-sharing-k-candies](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2247-number-of-unique-flavors-after-sharing-k-candies) |
 ## Counting
 |  |
 | ------- |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2071-longest-common-subsequence-between-sorted-arrays](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2071-longest-common-subsequence-between-sorted-arrays) |
 | [2209-number-of-equal-count-substrings](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2209-number-of-equal-count-substrings) |
 ## Binary Search
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-replace-the-substring-for-balanced-string](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2209-number-of-equal-count-substrings](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2209-number-of-equal-count-substrings) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Divide and Conquer
