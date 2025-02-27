@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1370-count-number-of-nice-subarrays) |
 | [1380-number-of-closed-islands](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1380-number-of-closed-islands) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1388-greatest-sum-divisible-by-three) |
+| [1396-count-servers-that-communicate](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1396-count-servers-that-communicate) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2071-longest-common-subsequence-between-sorted-arrays](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2071-longest-common-subsequence-between-sorted-arrays) |
 | [2209-number-of-equal-count-substrings](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2209-number-of-equal-count-substrings) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1242-matrix-block-sum](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1242-matrix-block-sum) |
 | [1380-number-of-closed-islands](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1380-number-of-closed-islands) |
+| [1396-count-servers-that-communicate](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2203-number-of-spaces-cleaning-robot-cleaned](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2203-number-of-spaces-cleaning-robot-cleaned) |
 | [2268-remove-all-ones-with-row-and-column-flips](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2268-remove-all-ones-with-row-and-column-flips) |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1380-number-of-closed-islands](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1380-number-of-closed-islands) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1396-count-servers-that-communicate](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1396-count-servers-that-communicate) |
 | [1428-jump-game-iii](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1428-jump-game-iii) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1450-delete-leaves-with-a-given-value) |
@@ -282,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-deepest-leaves-sum](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1254-deepest-leaves-sum) |
 | [1380-number-of-closed-islands](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1380-number-of-closed-islands) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1396-count-servers-that-communicate](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1396-count-servers-that-communicate) |
 | [1428-jump-game-iii](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1428-jump-game-iii) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Trie
@@ -293,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1380-number-of-closed-islands](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1380-number-of-closed-islands) |
+| [1396-count-servers-that-communicate](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Iterator
 |  |
