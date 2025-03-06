@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1464-reduce-array-size-to-the-half) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2071-longest-common-subsequence-between-sorted-arrays](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2071-longest-common-subsequence-between-sorted-arrays) |
 | [2247-number-of-unique-flavors-after-sharing-k-candies](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2247-number-of-unique-flavors-after-sharing-k-candies) |
 ## Counting
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0519-widest-pair-of-indices-with-equal-range-sum](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/0519-widest-pair-of-indices-with-equal-range-sum) |
 | [1242-matrix-block-sum](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1242-matrix-block-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1370-count-number-of-nice-subarrays) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2075-brightest-position-on-street](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2075-brightest-position-on-street) |
 | [2209-number-of-equal-count-substrings](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2209-number-of-equal-count-substrings) |
 ## Math
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1359-circular-permutation-in-binary-representation](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1359-circular-permutation-in-binary-representation) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2062-game-of-nim](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2062-game-of-nim) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2268-remove-all-ones-with-row-and-column-flips](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2268-remove-all-ones-with-row-and-column-flips) |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2209-number-of-equal-count-substrings](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2209-number-of-equal-count-substrings) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Divide and Conquer
