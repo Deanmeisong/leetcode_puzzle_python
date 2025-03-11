@@ -1,5 +1,11 @@
-class Solution:
-    def longestDiverseString(self, a: int, b: int, c: int) -> str:
+class Solution(object):
+    def longestDiverseString(self, a, b, c):
+        """
+        :type a: int
+        :type b: int
+        :type c: int
+        :rtype: str
+        """
         h = []
         if a > 0:
             heappush(h, [-a, 'a'])
@@ -27,3 +33,4 @@ class Solution:
                     heappush(h, cur)
 
         return ''.join(ans)
+        
