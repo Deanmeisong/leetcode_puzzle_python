@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1211-iterator-for-combination](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1211-iterator-for-combination) |
 | [1359-circular-permutation-in-binary-representation](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1359-circular-permutation-in-binary-representation) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
 |  |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1502-construct-k-palindrome-strings) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2209-number-of-equal-count-substrings](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2209-number-of-equal-count-substrings) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
