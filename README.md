@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-number-of-burgers-with-no-waste-of-ingredients](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1401-number-of-burgers-with-no-waste-of-ingredients) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2062-game-of-nim](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2062-game-of-nim) |
 | [2141-smallest-greater-multiple-made-of-two-digits](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2141-smallest-greater-multiple-made-of-two-digits) |
 | [2268-remove-all-ones-with-row-and-column-flips](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2268-remove-all-ones-with-row-and-column-flips) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1502-construct-k-palindrome-strings) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1979-maximum-number-of-people-that-can-be-caught-in-tag](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1979-maximum-number-of-people-that-can-be-caught-in-tag) |
 | [2142-average-height-of-buildings-in-each-segment](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2142-average-height-of-buildings-in-each-segment) |
 | [2242-subsequence-of-size-k-with-the-largest-even-sum](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2242-subsequence-of-size-k-with-the-largest-even-sum) |
