@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1979-maximum-number-of-people-that-can-be-caught-in-tag](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1979-maximum-number-of-people-that-can-be-caught-in-tag) |
 | [2062-game-of-nim](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2062-game-of-nim) |
 | [2069-kth-smallest-subarray-sum](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2069-kth-smallest-subarray-sum) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2069-kth-smallest-subarray-sum](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2069-kth-smallest-subarray-sum) |
 | [2247-number-of-unique-flavors-after-sharing-k-candies](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2247-number-of-unique-flavors-after-sharing-k-candies) |
 ## Prefix Sum
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1304-longest-happy-string) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1464-reduce-array-size-to-the-half) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2142-average-height-of-buildings-in-each-segment](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2142-average-height-of-buildings-in-each-segment) |
 | [2230-minimum-cost-to-reach-city-with-discounts](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2230-minimum-cost-to-reach-city-with-discounts) |
 ## Linked List
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0510-count-subarrays-with-more-ones-than-zeros](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/0510-count-subarrays-with-more-ones-than-zeros) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2075-brightest-position-on-street](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2075-brightest-position-on-street) |
 ## Dynamic Programming
 |  |
@@ -370,4 +374,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1501-circle-and-rectangle-overlapping](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1501-circle-and-rectangle-overlapping) |
+## Queue
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 <!---LeetCode Topics End-->
