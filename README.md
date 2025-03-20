@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1370-count-number-of-nice-subarrays) |
 | [1401-number-of-burgers-with-no-waste-of-ingredients](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1401-number-of-burgers-with-no-waste-of-ingredients) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1446-angle-between-hands-of-a-clock) |
+| [1501-circle-and-rectangle-overlapping](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2062-game-of-nim](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2062-game-of-nim) |
@@ -365,4 +366,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1427-all-elements-in-two-binary-search-trees) |
+## Geometry
+|  |
+| ------- |
+| [1501-circle-and-rectangle-overlapping](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1501-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
