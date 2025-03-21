@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1979-maximum-number-of-people-that-can-be-caught-in-tag](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1979-maximum-number-of-people-that-can-be-caught-in-tag) |
 | [2062-game-of-nim](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2062-game-of-nim) |
 | [2069-kth-smallest-subarray-sum](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2069-kth-smallest-subarray-sum) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1502-construct-k-palindrome-strings) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2071-longest-common-subsequence-between-sorted-arrays](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2071-longest-common-subsequence-between-sorted-arrays) |
 | [2247-number-of-unique-flavors-after-sharing-k-candies](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2247-number-of-unique-flavors-after-sharing-k-candies) |
 ## Counting
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1370-count-number-of-nice-subarrays) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2075-brightest-position-on-street](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2075-brightest-position-on-street) |
 | [2209-number-of-equal-count-substrings](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2209-number-of-equal-count-substrings) |
 ## Math
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1501-circle-and-rectangle-overlapping](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2062-game-of-nim](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2062-game-of-nim) |
 | [2141-smallest-greater-multiple-made-of-two-digits](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2141-smallest-greater-multiple-made-of-two-digits) |
 | [2268-remove-all-ones-with-row-and-column-flips](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2268-remove-all-ones-with-row-and-column-flips) |
@@ -188,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2062-game-of-nim](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2062-game-of-nim) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2268-remove-all-ones-with-row-and-column-flips](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2268-remove-all-ones-with-row-and-column-flips) |
