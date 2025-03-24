@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1428-jump-game-iii](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1428-jump-game-iii) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1464-reduce-array-size-to-the-half) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1477-product-of-the-last-k-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1242-matrix-block-sum](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1242-matrix-block-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1370-count-number-of-nice-subarrays) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1477-product-of-the-last-k-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2075-brightest-position-on-street](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2075-brightest-position-on-street) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1370-count-number-of-nice-subarrays) |
 | [1401-number-of-burgers-with-no-waste-of-ingredients](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1401-number-of-burgers-with-no-waste-of-ingredients) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1446-angle-between-hands-of-a-clock) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1477-product-of-the-last-k-numbers) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1211-iterator-for-combination](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1211-iterator-for-combination) |
 | [1249-snapshot-array](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1249-snapshot-array) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Stack
 |  |
@@ -399,4 +403,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1488-sort-integers-by-the-power-value](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1488-sort-integers-by-the-power-value) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
