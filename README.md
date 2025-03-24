@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1464-reduce-array-size-to-the-half) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1488-sort-integers-by-the-power-value](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1488-sort-integers-by-the-power-value) |
 | [1992-sort-linked-list-already-sorted-using-absolute-values](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1992-sort-linked-list-already-sorted-using-absolute-values) |
 | [2142-average-height-of-buildings-in-each-segment](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2142-average-height-of-buildings-in-each-segment) |
 | [2242-subsequence-of-size-k-with-the-largest-even-sum](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2242-subsequence-of-size-k-with-the-largest-even-sum) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1388-greatest-sum-divisible-by-three](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [1488-sort-integers-by-the-power-value](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1488-sort-integers-by-the-power-value) |
 | [2062-game-of-nim](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2062-game-of-nim) |
 | [2082-minimum-cost-to-separate-sentence-into-rows](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2082-minimum-cost-to-separate-sentence-into-rows) |
 ## Matrix
@@ -393,4 +395,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Memoization
+|  |
+| ------- |
+| [1488-sort-integers-by-the-power-value](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1488-sort-integers-by-the-power-value) |
 <!---LeetCode Topics End-->
