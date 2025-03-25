@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1450-delete-leaves-with-a-given-value](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1484-linked-list-in-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Depth-First Search
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1450-delete-leaves-with-a-given-value](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1484-linked-list-in-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Binary Tree
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1450-delete-leaves-with-a-given-value](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1484-linked-list-in-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Concurrency
 |  |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1396-count-servers-that-communicate) |
 | [1428-jump-game-iii](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1428-jump-game-iii) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Trie
 |  |
