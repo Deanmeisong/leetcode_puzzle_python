@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1979-maximum-number-of-people-that-can-be-caught-in-tag](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1979-maximum-number-of-people-that-can-be-caught-in-tag) |
 | [2062-game-of-nim](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2062-game-of-nim) |
 | [2069-kth-smallest-subarray-sum](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2069-kth-smallest-subarray-sum) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1526-html-entity-parser](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1526-html-entity-parser) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [2071-longest-common-subsequence-between-sorted-arrays](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2071-longest-common-subsequence-between-sorted-arrays) |
 | [2247-number-of-unique-flavors-after-sharing-k-candies](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2247-number-of-unique-flavors-after-sharing-k-candies) |
 ## Counting
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1526-html-entity-parser](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1526-html-entity-parser) |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1561-rearrange-words-in-a-sentence) |
+| [1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [2209-number-of-equal-count-substrings](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2209-number-of-equal-count-substrings) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Divide and Conquer
