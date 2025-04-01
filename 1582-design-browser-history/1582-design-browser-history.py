@@ -1,28 +1,27 @@
-class BrowserHistory:
-    def __init__(self, homepage: str):
+class BrowserHistory(object):
+    def __init__(self, homepage):
         self.stk1 = []
         self.stk2 = []
         self.visit(homepage)
 
-    def visit(self, url: str) -> None:
+    def visit(self, url):
         self.stk1.append(url)
-        self.stk2.clear()
+        self.stk2 = []
 
-    def back(self, steps: int) -> str:
+    def back(self, steps):
         while steps and len(self.stk1) > 1:
             self.stk2.append(self.stk1.pop())
             steps -= 1
         return self.stk1[-1]
 
-    def forward(self, steps: int) -> str:
+    def forward(self, steps):
         while steps and self.stk2:
             self.stk1.append(self.stk2.pop())
             steps -= 1
         return self.stk1[-1]
 
-
-# Your BrowserHistory object will be instantiated and called as such:
-# obj = BrowserHistory(homepage)
-# obj.visit(url)
-# param_2 = obj.back(steps)
-# param_3 = obj.forward(steps)
+# Example usage in Python 2:
+# obj = BrowserHistory("homepage.com")
+# obj.visit("page1.com")
+# print obj.back(1)
+# print obj.forward(1)
