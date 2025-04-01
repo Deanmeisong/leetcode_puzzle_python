@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1581-the-k-strongest-values-in-an-array](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1581-the-k-strongest-values-in-an-array) |
+| [1582-design-browser-history](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1582-design-browser-history) |
 | [1979-maximum-number-of-people-that-can-be-caught-in-tag](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1979-maximum-number-of-people-that-can-be-caught-in-tag) |
 | [2062-game-of-nim](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2062-game-of-nim) |
 | [2069-kth-smallest-subarray-sum](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2069-kth-smallest-subarray-sum) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1484-linked-list-in-binary-tree](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1484-linked-list-in-binary-tree) |
+| [1582-design-browser-history](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1582-design-browser-history) |
 | [1992-sort-linked-list-already-sorted-using-absolute-values](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1992-sort-linked-list-already-sorted-using-absolute-values) |
 ## Two Pointers
 |  |
@@ -366,12 +368,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1582-design-browser-history](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1582-design-browser-history) |
 ## Stack
 |  |
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1582-design-browser-history](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1582-design-browser-history) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -427,4 +431,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1477-product-of-the-last-k-numbers) |
+| [1582-design-browser-history](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1582-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
