@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1581-the-k-strongest-values-in-an-array](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1581-the-k-strongest-values-in-an-array) |
 | [1582-design-browser-history](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1582-design-browser-history) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1979-maximum-number-of-people-that-can-be-caught-in-tag](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1979-maximum-number-of-people-that-can-be-caught-in-tag) |
 | [2062-game-of-nim](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2062-game-of-nim) |
 | [2069-kth-smallest-subarray-sum](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2069-kth-smallest-subarray-sum) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0510-count-subarrays-with-more-ones-than-zeros](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/0510-count-subarrays-with-more-ones-than-zeros) |
 | [1249-snapshot-array](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1249-snapshot-array) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2069-kth-smallest-subarray-sum](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2069-kth-smallest-subarray-sum) |
 | [2111-binary-searchable-numbers-in-an-unsorted-array](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2111-binary-searchable-numbers-in-an-unsorted-array) |
 ## Sliding Window
