@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1581-the-k-strongest-values-in-an-array](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1581-the-k-strongest-values-in-an-array) |
 | [1582-design-browser-history](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1582-design-browser-history) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1979-maximum-number-of-people-that-can-be-caught-in-tag](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1979-maximum-number-of-people-that-can-be-caught-in-tag) |
 | [2062-game-of-nim](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2062-game-of-nim) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2071-longest-common-subsequence-between-sorted-arrays](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2071-longest-common-subsequence-between-sorted-arrays) |
 | [2247-number-of-unique-flavors-after-sharing-k-candies](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2247-number-of-unique-flavors-after-sharing-k-candies) |
 ## Counting
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1502-construct-k-palindrome-strings](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1502-construct-k-palindrome-strings) |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1534-minimum-number-of-frogs-croaking) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2071-longest-common-subsequence-between-sorted-arrays](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2071-longest-common-subsequence-between-sorted-arrays) |
 | [2209-number-of-equal-count-substrings](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2209-number-of-equal-count-substrings) |
 ## Binary Search
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1979-maximum-number-of-people-that-can-be-caught-in-tag](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1979-maximum-number-of-people-that-can-be-caught-in-tag) |
 | [2142-average-height-of-buildings-in-each-segment](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2142-average-height-of-buildings-in-each-segment) |
 | [2242-subsequence-of-size-k-with-the-largest-even-sum](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2242-subsequence-of-size-k-with-the-largest-even-sum) |
@@ -168,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-rearrange-words-in-a-sentence](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1561-rearrange-words-in-a-sentence) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1581-the-k-strongest-values-in-an-array](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1581-the-k-strongest-values-in-an-array) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1992-sort-linked-list-already-sorted-using-absolute-values](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/1992-sort-linked-list-already-sorted-using-absolute-values) |
 | [2142-average-height-of-buildings-in-each-segment](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2142-average-height-of-buildings-in-each-segment) |
 | [2242-subsequence-of-size-k-with-the-largest-even-sum](https://github.com/Deanmeisong/leetcode_puzzle_python/tree/master/2242-subsequence-of-size-k-with-the-largest-even-sum) |
